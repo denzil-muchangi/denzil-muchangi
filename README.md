@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Denzil Eugene Muchangi.
+# 👋 Hi there! I'm Denzil Muchangi.
 
 Welcome to my GitHub profile! I love to explore new technologies, build innovative solutions, and contribute to the tech community. Here, you can find a collection of my projects, contributions, and the tech stacks that fuel my coding adventures.
 
@@ -50,7 +50,7 @@ I have worked on numerous projects across different domains, including:
 
 ## 📚 Fun Fact
 
-When I'm not coding, you can find me web developing, writing, web designing, riding, and playing video games. I believe in the power of continuous learning and always strive to improve my skills.
+When I'm not coding, you can find me doing mobile development, blog writing, web designing, riding, and playing video games. I believe in the power of continuous learning and always strive to improve my skills.
 
 Thanks for stopping by! Happy coding! 🚀
 
