@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I love to explore new technologies, build innovati
 Here are the technologies I work with:
 
 ### Mobile
- **Flutter** | **React Native** |**Kotlin**
+ **Flutter** | **React Native** | **Kotlin**
 
 ### Frontend
 - **HTML5** | **CSS3** | **JavaScript** | **React** | **Vue.js**
