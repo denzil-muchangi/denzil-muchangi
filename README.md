@@ -7,8 +7,11 @@ Welcome to my GitHub profile! I love to explore new technologies, build innovati
 # 💻 Tech Stack:
 Here are the technologies I work with:
 
+### Mobile
+ **Flutter** | **React Native** |**Kotlin**
+
 ### Frontend
-- **HTML5** | **CSS3** | **JavaScript** | **React** | **Vue.js** | **Flutter**
+- **HTML5** | **CSS3** | **JavaScript** | **React** | **Vue.js**
 
 ### Backend
 - **Node.js** | **Express.js** | **Python** | **Django** | **Ruby on Rails** | **Firebase**
