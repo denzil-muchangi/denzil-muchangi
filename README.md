@@ -1,27 +1,76 @@
-# 💫 About Me:
-👋 Hi there! I'm Denzil Muchangi.<br>Welcome to my GitHub profile! I'm a competent Flutter developer passionate about building innovative mobile solutions and contributing to the tech community. Here, you can find a collection of my Flutter projects, contributions, and the tech stacks that fuel my mobile development adventures.<br><br>💻 Tech Stack:<br>Here are the technologies I work with:<br><br>Mobile<br>Flutter | Dart<br><br>Backend<br>Firebase<br>Databases<br>MySQL<br>Tools<br>VS Code | Git | Postman<br>🌟 Experience<br>I have worked on numerous projects across different domains, including:<br><br>Mobile Development: Creating cross-platform mobile applications with Flutter.<br>Cloud Solutions: Implementing scalable solutions using Firebase.<br><br>🔭 I'm currently working on developing robust and scalable mobile solutions with Flutter that solve real-world problems.<br>🤝 I'm looking to collaborate on open-source Flutter projects that aim to improve developer workflows or provide practical mobile tools.<br>🌱 I'm looking for help with understanding advanced Flutter integrations and cloud deployment strategies.<br>📚 I'm currently learning about advanced Flutter features and exploring the potential of augmented reality in mobile applications.<br>💬 Ask me about troubleshooting complex mobile issues, building responsive user interfaces with Flutter, or anything about bringing a mobile app idea to life.<br>⚡ Fun fact: I once set up an entire home network from scratch using only a handful of repurposed components!
+<div align="center">
+  <h1>🚀 Denzil Muchangi</h1>
+  <p><em>Competent Flutter Developer | Mobile Innovation Enthusiast</em></p>
+</div>
 
+<div align="justify">
+  <p>👋 Welcome to my GitHub profile! I'm passionate about crafting cutting-edge mobile solutions with Flutter, pushing the boundaries of cross-platform development. Here, you'll discover my Flutter projects and the technologies that drive my mobile development journey.</p>
+</div>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:njagidenzil@gmail.com)
+## 🌟 Expertise
+<div align="justify">
+  <p><strong>Mobile Development:</strong> Building robust, scalable cross-platform applications with Flutter.<br>
+  <strong>Cloud Solutions:</strong> Leveraging Firebase for seamless backend integration.<br>
+  <strong>Database Management:</strong> Utilizing MySQL for efficient data handling.</p>
+</div>
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=denzil-muchangi&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=denzil-muchangi&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=denzil-muchangi&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🛠️ Tech Stack
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+    </td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=denzil-muchangi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 📊 GitHub Insights
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=denzil-muchangi&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=denzil-muchangi&theme=transparent&hide_border=false" alt="GitHub Streak"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denzil-muchangi&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🏆 Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=denzil-muchangi&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=denzil-muchangi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 💬 Let's Connect
+<div align="center">
+  <a href="mailto:njagidenzil@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<div align="center">
+  <p><em>Currently exploring advanced Flutter integrations and AR possibilities in mobile apps.</em></p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=denzil-muchangi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=denzil-muchangi&icon=0&color=0" alt="Visitor Count"/>
+</div>
