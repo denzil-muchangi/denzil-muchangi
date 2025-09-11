@@ -70,7 +70,12 @@
   <p><em>Currently exploring advanced Flutter integrations and AR possibilities in mobile apps.</em></p>
 </div>
 
+## 💡 Inspiration
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
 ---
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=denzil-muchangi&icon=0&color=0" alt="Visitor Count"/>
+  <p><em>Thanks for visiting! Let's build something amazing together.</em></p>
 </div>
