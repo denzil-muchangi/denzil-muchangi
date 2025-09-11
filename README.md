@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>🚀 Denzil Muchangi</h1>
-  <p><em>Competent Flutter Developer | Mobile Innovation Enthusiast</em></p>
+  <h1>💻 Denzil Muchangi</h1>
+  <p><em>Expert Flutter Developer | Cross-Platform Specialist</em></p>
 </div>
 
 <div align="justify">
