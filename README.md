@@ -64,9 +64,7 @@ Explore my portfolio of innovative Flutter applications:
 I'm always open to discussing new opportunities, collaborations, or just chatting about Flutter!
 
 - **Email**: njagidenzil@gmail.com
-- **LinkedIn**: [Denzil Muchangi](https://linkedin.com/in/denzil-muchangi)
 - **GitHub**: [@denzil-muchangi](https://github.com/denzil-muchangi)
-- **Twitter**: [@denzil_muchangi](https://twitter.com/denzil_muchangi)
 
 ---
 
