@@ -50,7 +50,7 @@ My expertise spans the entire mobile development lifecycle, from concept to depl
 
 Explore my portfolio of innovative Flutter applications:
 
-- **[Interactive Portfolio](https://denzil-muchangi.github.io)** - A dynamic web portfolio showcasing my work
+- **[Interactive Portfolio](https://denzil-muchangi.github.io/interactive_portifolio/)** - A dynamic web portfolio showcasing my work
 - **E-Commerce App** - Full-featured shopping app with payment integration
 - **Social Media Platform** - Real-time messaging and content sharing
 - **Fitness Tracker** - Health monitoring with wearable device integration
