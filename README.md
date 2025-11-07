@@ -113,20 +113,23 @@
 
 ---
 
-## Professional Development & Certifications
+## Professional Development & Education
 
-### Technical Certifications
-- **AWS Certified Developer Associate** (2024)
-- **Microsoft Azure Developer Associate** (2023)
-- **Google Cloud Professional Developer** (2023)
-- **Scrum Master Certified (SMC)** (2022)
+### Formal Education
+- **Diploma in Information Technology** - Comprehensive foundation in software development, systems analysis, and IT infrastructure
 
-### Continuing Education
+### Self-Taught Expertise
+- **Continuous Learning Culture** - Proactively mastering new technologies through hands-on projects and documentation
+- **Technology Adaptation** - Self-directed learning of Flutter, .NET Core, React, and modern development practices
+- **Problem-Solving Approach** - Developed strong analytical skills through independent project development
+- **Self-Motivation** - Proven ability to learn and implement complex technologies without formal instruction
+
+### Technical Self-Learning
 - Advanced Flutter Architecture Patterns
 - .NET Core Microservices Design
 - React Performance Optimization
 - Cloud Security Best Practices
-- **In Progress:** AWS Solutions Architect Professional
+- **Current Focus:** AWS Solutions Architecture
 
 ### Community Involvement
 - Active contributor to open-source Flutter and .NET projects
