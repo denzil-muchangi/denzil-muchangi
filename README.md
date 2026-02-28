@@ -20,6 +20,28 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-trophies.vercel.app/user?username=denzil-muchangi&theme=radical&no-frame=false&no-bg=false&flavor=dark)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=denzil-muchangi&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denzil-muchangi&layout=compact&theme=radical&hide_border=true&title_color=2F81F7&text_color=c9d1d9&bg_color=0d1117)
+
+</div>
+
+---
+
 ## Professional Summary
 
 > Results-driven Senior Cross-Platform Developer with 5+ years of experience designing and deploying scalable digital solutions across mobile, web, and cloud platforms. Proven track record of delivering enterprise-grade applications that drive business value. Demonstrated expertise in leading technical teams, mentoring developers, and implementing best practices that result in 40-60% performance and development speed improvements.
