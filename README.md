@@ -12,19 +12,9 @@
 
 ---
 
-![Senior Developer](https://img.shields.io/badge/Experience-5%2B%20Years-2F81F7?style=flat-square)
+![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-2F81F7?style=flat-square)
 ![Available](https://img.shields.io/badge/Status-Available-10B981?style=flat-square)
 ![Remote](https://img.shields.io/badge/Work%20Mode-Remote%20%7C%20Hybrid-6366F1?style=flat-square)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-trophies.vercel.app/user?username=denzil-muchangi&theme=radical&no-frame=false&no-bg=false&flavor=dark)
 
 </div>
 
@@ -34,9 +24,20 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=denzil-muchangi&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&bg_color=0d1117)
+| ![Repos](https://img.shields.io/badge/Repos-40-2F81F7?style=flat-square) | ![Followers](https://img.shields.io/badge/Followers-0-10B981?style=flat-square) | ![Following](https://img.shields.io/badge/Following-1-6366F1?style=flat-square) |
+|:---:|:---:|:---:|
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denzil-muchangi&layout=compact&theme=radical&hide_border=true&title_color=2F81F7&text_color=c9d1d9&bg_color=0d1117)
+</div>
+
+### Top Languages
+
+<div align="left">
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </div>
 
