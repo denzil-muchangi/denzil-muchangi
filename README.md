@@ -26,15 +26,13 @@
 
 *Active on GitHub since 2025*
 
-| | | |
+| 🏅 | 🎖️ | ⚡ |
 |:---:|:---:|:---:|
-| ![Quickdraw](https://github.githubassets.com/assets/quickdraw-default-39c7a3cb881f40a7c5f9467cd4a4f638.svg) | ![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c6d24b90f4f6a3f62b1640563a37b.svg) | ![Pair Extraordinaire](https://github.githubassets.com/assets/pair-extraordinaire-default-d3734079b03c40b2a6a14b82904163be.svg) |
 | **Quickdraw** | **Pull Shark** | **Pair Extraordinaire** |
 | Closed PR within 5 min | 2+ PRs merged | Co-authored merged PR |
 
-| | | |
+| ⭐ | 🧠 | 🚀 |
 |:---:|:---:|:---:|
-| ![Starstruck](https://github.githubassets.com/assets/starstruck-default-24c11f3057b4f9f5c20ce0ea7615eef0.svg) | ![Galaxy Brain](https://github.githubassets.com/assets/galaxy-brain-default-6cc5c4d0d3f64c60c70e9794e1c3e04b.svg) | ![YOLO](https://github.githubassets.com/assets/yolo-default-0e1c7c72c4f94e40cbf17b6a85df3234.svg) |
 | **Starstruck** | **Galaxy Brain** | **YOLO** |
 | 16+ stars on repo | 2+ accepted answers | Merged PR without review |
 
