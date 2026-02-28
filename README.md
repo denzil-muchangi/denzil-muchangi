@@ -1,357 +1,149 @@
-# 🚀 Denzil Muchangi - Senior Cross-Platform Developer
+# Denzil Muchangi
+
+### Senior Cross-Platform Developer
+
+---
 
 <div align="center">
 
-### 💻 Building Tomorrow's Digital Solutions Today
+**Building Enterprise-Grade Digital Solutions**
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D1?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+📍 Nairobi, Kenya | 📧 njagidenzil@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/denzil-muchangi) | 🌐 [Portfolio](https://denzil-muchangi.github.io)
 
-[![GitHub followers](https://img.shields.io/github/followers/denzil-muchangi?style=social)](https://github.com/denzil-muchangi)
-[![GitHub stars](https://img.shields.io/github/stars/denzil-muchangi?style=social)](https://github.com/denzil-muchangi)
+---
+
+![Senior Developer](https://img.shields.io/badge/Experience-5%2B%20Years-2F81F7?style=flat-square)
+![Available](https://img.shields.io/badge/Status-Available-10B981?style=flat-square)
+![Remote](https://img.shields.io/badge/Work%20Mode-Remote%20%7C%20Hybrid-6366F1?style=flat-square)
 
 </div>
 
 ---
 
-## 🎯 Professional Excellence
+## Professional Summary
 
-### 🏆 **Senior Cross-Platform Developer** | 5+ Years of Innovation
+> Results-driven Senior Cross-Platform Developer with 5+ years of experience designing and deploying scalable digital solutions across mobile, web, and cloud platforms. Proven track record of delivering enterprise-grade applications that drive business value. Demonstrated expertise in leading technical teams, mentoring developers, and implementing best practices that result in 40-60% performance and development speed improvements.
 
-> *Transforming ideas into exceptional digital experiences through cutting-edge technology and innovative design*
+---
+
+## Technical Expertise
+
+### Core Competencies
+
+| Category | Technologies |
+|:---------|:-------------|
+| **Mobile Development** | Flutter, React Native, Swift, Kotlin |
+| **Web Development** | React, TypeScript, Vue.js, Next.js |
+| **Backend & API** | .NET Core, Node.js, GraphQL, REST APIs |
+| **Cloud Platforms** | Microsoft Azure, AWS, Firebase |
+| **Databases** | PostgreSQL, MongoDB, SQL Server, Redis |
+| **DevOps & Tools** | Docker, GitHub Actions, CI/CD, Git |
+
+### Specialized Skills
+
+- ✓ Enterprise Architecture & System Design
+- ✓ Cross-Platform Mobile Development
+- ✓ Cloud-Native Application Development
+- ✓ API Design & Microservices
+- ✓ Performance Optimization & Caching Strategies
+- ✓ Agile/Scrum Methodologies
+- ✓ Technical Leadership & Team Mentorship
+
+---
+
+## Professional Achievements
 
 <div align="center">
 
-| 🌍 Global Impact | 📱 Platform Expertise | ⚡ Performance | 👥 Leadership |
-|:---:|:---:|:---:|:---:|
-| **25+** Deployed Apps | **3+** Major Platforms | **40%** Performance Boost | **10+** Developers Mentored |
-| **5** Years Experience | **Cross-Platform** Native Performance | **60%** Faster Development | **8** Team Leadership |
+| Metric | Achievement | Business Impact |
+|:-------|:-----------:|:-----------------|
+| 📱 **Applications Deployed** | 25+ | Multi-platform reach |
+| ⚡ **Development Speed** | 60% faster | Accelerated time-to-market |
+| 🚀 **Performance Boost** | 40% optimization | Enhanced user experience |
+| 💰 **Cloud Cost Reduction** | 30% savings | Improved ROI |
+| 📈 **Code Quality** | 95%+ test coverage | Reduced bugs & maintenance |
+| 👥 **Team Leadership** | 10+ developers mentored | Built high-performing teams |
 
 </div>
 
 ---
 
-## 💼 Core Competencies
+## What I Deliver
 
-<table>
-<tr>
-<td width="50%">
+### For Enterprises
+- Scalable multi-tenant architecture solutions
+- Custom enterprise mobile & web applications
+- Cloud migration & modernization strategies
+- API gateway & microservices implementation
 
-### 🔧 **Technical Mastery**
-- **Full-Stack Architecture** - End-to-end solution design
-- **Cross-Platform Development** - Mobile, web, and cloud solutions  
-- **Cloud-Native Solutions** - Scalable, resilient, and secure
-- **Team Leadership** - Technical mentorship and project management
+### For Startups
+- Rapid MVP development & launch
+- Cross-platform applications (iOS, Android, Web)
+- Scalable backend infrastructure
+- Technical roadmap & architecture planning
 
-</td>
-<td width="50%">
-
-### 🎨 **Design Excellence**
-- **User-Centric Design** - Intuitive and engaging interfaces
-- **Performance Optimization** - Sub-second load times
-- **Responsive Design** - Perfect across all devices
-- **Innovation-Driven** - Always pushing boundaries
-
-</td>
-</tr>
-</table>
+### For Teams
+- Technical mentorship & code reviews
+- Best practices implementation
+- Agile process optimization
+- Developer training workshops
 
 ---
 
-## 🛠️ Technology Stack
+## Professional Development
 
-### 📱 **Mobile Development**
+### Continuous Learning
+- AWS Solutions Architecture certification in progress
+- Advanced ML/AI integration for mobile & web applications
+- DevOps & infrastructure automation
+
+### Community Contributions
+- Technical article publications
+- Open-source ecosystem contributions
+- Developer mentorship programs
+- Tech meetup speaking engagements
+
+---
+
+## Work Preferences
 
 <div align="left">
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev) **Advanced Architecture** - Custom widgets, animations, state management  
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactnative.dev) **Cross-Platform** - iOS & Android native performance  
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)](https://developer.apple.com/swift/) **iOS Native** - SwiftUI, Core ML, ARKit  
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/) **Android Native** - Jetpack Compose, Room, Retrofit  
+**Employment Types:**
+- Full-time Senior Developer positions
+- Technical leadership roles
+- Contract-based projects
+- Architecture consulting
+
+**Work Arrangements:**
+- Remote ✓
+- Hybrid ✓
+- On-site ✓
+- International opportunities ✓
 
 </div>
 
-### 💻 **Web Development**
+---
+
+## Get In Touch
 
 <div align="left">
 
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org) **Modern React** - Hooks, Context, Next.js  
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) **Type Safety** - Enterprise-grade code quality  
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) **Backend APIs** - Express, FastAPI, GraphQL  
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org) **Progressive Framework** - Vue 3, Nuxt.js  
+📧 **Email:** [njagidenzil@gmail.com](mailto:njagidenzil@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/denzil-muchangi](https://linkedin.com/in/denzil-muchangi)  
+🌐 **Portfolio:** [denzil-muchangi.github.io](https://denzil-muchangi.github.io)  
+💻 **GitHub:** [github.com/denzil-muchangi](https://github.com/denzil-muchangi)
 
 </div>
-
-### ☁️ **Backend & Cloud**
-
-<div align="left">
-
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com) **Enterprise Solutions** - Core 8, Microservices, Blazor  
-[![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D1?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com) **Cloud Services** - Functions, App Service, SQL Database  
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com) **Cloud Architecture** - Lambda, ECS, RDS  
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org) **Database Design** - Optimization, Replication, Analytics  
-
-</div>
-
----
-
-## 📊 Impact & Achievements
-
-<div align="center">
-
-| 🎯 **Metric** | 📈 **Value** | 💡 **Impact** |
-|:---|:---:|:---|
-| 🚀 **Performance Boost** | **40%** | Optimized caching & architecture |
-| ⚡ **Development Speed** | **60%** faster | Modern frameworks & automation |
-| 💰 **Cost Reduction** | **30%** savings | Cloud-native architecture |
-| ✅ **Code Quality** | **95%+** coverage | Comprehensive testing strategies |
-| 👥 **Team Growth** | **10+** developers mentored | Technical leadership excellence |
-| 🌍 **Apps Deployed** | **25+** production apps | Multi-platform expertise |
-
-</div>
-
----
-
-## 🏅 **Project Portfolio**
-
-### 🏢 **Enterprise Solutions**
-
-<table>
-<tr>
-<td width="35%">
-
-**🛒 E-Commerce Platform**
-*Flutter & .NET Core*
-
-</td>
-<td width="65%">
-
-> **Full-stack shopping application** with integrated payment processing, real-time inventory management, and comprehensive admin dashboard featuring analytics and reporting capabilities.
-
-**[🔗 View Project](https://github.com/denzil-muchangi/ecommerce-flutter)** | **[📱 Live Demo]()**
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="35%">
-
-**👥 Enterprise CRM System**
-*.NET Core & React*
-
-</td>
-<td width="65%">
-
-> **Scalable customer relationship management** platform with multi-tenant architecture, role-based access control, and workflow automation.
-
-**[🔗 View Project](https://github.com/denzil-muchangi/crm-dotnet)** | **[🌐 Live Demo]()**
-
-</td>
-</tr>
-</table>
-
-### 📱 **Mobile Applications**
-
-<table>
-<tr>
-<td width="35%">
-
-**💬 Social Media Platform**
-*Flutter & Node.js*
-
-</td>
-<td width="65%">
-
-> **Real-time messaging application** with WebSocket integration, push notifications, and cross-platform compatibility with native performance.
-
-**[🔗 View Project](https://github.com/denzil-muchangi/social-app)** | **[📱 App Store]()**
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="35%">
-
-**💪 Health & Fitness Tracker**
-*Flutter & Firebase*
-
-</td>
-<td width="65%">
-
-> **Wearable device integration** with health data analytics, personalized workout plans, and HIPAA-compliant data handling.
-
-**[🔗 View Project](https://github.com/denzil-muchangi/fitness-tracker)** | **[📱 App Store]()**
-
-</td>
-</tr>
-</table>
-
-### 🌐 **Web Applications**
-
-<table>
-<tr>
-<td width="35%">
-
-**🎨 Interactive Portfolio**
-*React & TypeScript*
-
-</td>
-<td width="65%">
-
-> **Dynamic web portfolio** with real-time animations, responsive design, and progressive web app features for optimal user experience.
-
-**[🔗 View Project](https://denzil-muchangi.github.io/interactive_portfolio/)** | **[🌐 Live Demo](https://denzil-muchangi.github.io)**
-
-</td>
-</tr>
-</table>
-
----
-
-## 📚 Professional Development
-
-### 🎓 **Continuous Learning Journey**
-
-<div align="left">
-
-**🧠 Self-Taught Expertise**
-- **Adaptive Learning** - Mastering emerging technologies independently
-- **Practical Application** - Real-world project implementation
-- **Documentation First** - Comprehensive knowledge sharing
-- **Community Contribution** - Open-source collaboration
-
-**📖 Current Learning Path**
-- **AWS Solutions Architecture** - Advanced cloud design patterns
-- **Machine Learning Integration** - AI/ML in mobile and web apps
-- **DevOps Excellence** - Advanced CI/CD and infrastructure automation
-
-</div>
-
-### 👥 **Community Impact**
-
-<div align="center">
-
-| 🤝 **Contribution** | 📊 **Impact** | 🌍 **Reach** |
-|:---|:---:|:---:|
-| **📝 Technical Articles** | **50+** published | Global developer community |
-| **🎤 Conference Speaker** | **5+** events | Regional tech meetups |
-| **💻 Open Source** | **Active contributor** | Flutter & .NET ecosystems |
-| **👨‍🏫 Developer Mentorship** | **10+** mentees | Career advancement support |
-
-</div>
-
----
-
-## 🔧 Development Excellence
-
-### ⚡ **Technical Leadership**
-
-<table>
-<tr>
-<td width="50%">
-
-**🛠️ Methodologies**
-- **Agile/Scrum** - Iterative development mastery
-- **Code Quality** - Automated testing & review
-- **Documentation** - Comprehensive technical specs
-- **Knowledge Sharing** - Team training & presentations
-
-</td>
-<td width="50%">
-
-**📋 Project Management**
-- **Requirements Analysis** - Business to technical translation
-- **Architecture Design** - Scalable system planning
-- **Risk Management** - Proactive mitigation strategies
-- **Delivery Excellence** - Quality-assured on-time delivery
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 Professional Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=denzil-muchangi&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=2F81F7&icon_color=2F81F7&text_color=2F81F7&bg_color=00000000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denzil-muchangi&layout=compact&theme=transparent&hide_border=true&title_color=2F81F7&text_color=2F81F7&bg_color=00000000)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=denzil-muchangi&theme=transparent&hide_border=true&stroke=2F81F7&background=00000000)
-
-</div>
-
----
-
-## 📞 **Let's Build Something Amazing**
-
-<div align="center">
-
-### 🎯 **Ready for Your Next Challenge**
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-**📧 Connect With Me**
-- **📧 Email:** [njagidenzil@gmail.com](mailto:njagidenzil@gmail.com)
-- **💼 LinkedIn:** [Denzil Muchangi](https://linkedin.com/in/denzil-muchangi)
-- **💻 GitHub:** [@denzil-muchangi](https://github.com/denzil-muchangi)
-- **🌐 Portfolio:** [denzil-muchangi.github.io](https://denzil-muchangi.github.io)
-
-</td>
-<td width="50%" align="center">
-
-**🌍 Location & Availability**
-- **📍 Nairobi, Kenya** (UTC+3)
-- **🚀 Available Immediately**
-- **🏢 Remote | Hybrid | On-site**
-- **💼 Full-time | Contract | Consulting**
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-### 🤝 **Engagement Opportunities**
-
-<div align="left">
-
-**💼 Professional Services**
-- **Full-time Positions** - Senior Developer & Leadership roles
-- **Contract Projects** - Complex technical challenges
-- **Architecture Consulting** - System design and optimization
-- **Code Audits** - Quality assessment and improvement
-- **Developer Mentorship** - Technical skill development
-
-</div>
-
----
-
-## 🏆 **Professional References**
-
-*Detailed project case studies, technical documentation, and professional references available upon request. All achievements verified through GitHub contributions and professional network.*
 
 ---
 
 <div align="center">
 
-### 🚀 **"Excellence is not a destination, but a continuous journey"**
+**Open to opportunities that challenge me to build impactful digital solutions.**
 
-*Last Updated: November 2025 | Denzil Muchangi - Senior Cross-Platform Developer*
+---
+
+*Last Updated: February 2026*
 
 </div>
