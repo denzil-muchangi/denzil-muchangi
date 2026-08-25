@@ -25,10 +25,13 @@ I am a results-driven **Senior Cross-Platform Developer** with **5+ years** of e
 ---
 
 ### 📊 Engineering Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denzil-muchangi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denzil-muchangi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-</p>
+
+<div align="center">
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=denzil-muchangi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denzil-muchangi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8) |
+| :---: | :---: |
+
+</div>
 
 ---
 
@@ -94,10 +97,11 @@ graph TD
 
 ---
 
-### 🏆 Verified GitHub Recognition
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=denzil-muchangi&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophy" />
-</p>
+### 🏆 Verified Recognition & Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=denzil-muchangi&theme=tokyonight&no-background=true&margin-w=20&margin-h=20" alt="GitHub Trophies" />
+</div>
 
 ---
 
