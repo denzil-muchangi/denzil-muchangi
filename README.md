@@ -1,192 +1,118 @@
-# Denzil Muchangi
+# <p align="center">🚀 Denzil Muchangi</p>
 
-### Senior Cross-Platform Developer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Senior+Cross-Platform+Developer;Flutter+Architect+%7C+Dart+Expert;Building+Enterprise-Grade+Solutions;Scalable+Mobile+%26+Cloud+Systems" alt="Typing SVG" />
+</p>
 
----
-
-<div align="center">
-
-**Building Enterprise-Grade Digital Solutions**
-
-📍 Nairobi, Kenya | 📧 njagidenzil@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/denzil-muchangi) | 🌐 [Portfolio](https://denzil-muchangi.github.io)
-
----
-
-![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-2F81F7?style=flat-square)
-![Available](https://img.shields.io/badge/Status-Available-10B981?style=flat-square)
-![Remote](https://img.shields.io/badge/Work%20Mode-Remote%20%7C%20Hybrid-6366F1?style=flat-square)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/denzil-muchangi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:njagidenzil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://denzil-muchangi.github.io"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+</p>
 
 ---
 
-## 🏆 GitHub Achievements
+### 🏛️ Architectural Positioning
+> "Scaling Flutter apps isn't just about widgets; it's about resilient architecture and measurable performance trade-offs."
 
-<div align="center">
+I am a results-driven **Senior Cross-Platform Developer** with **5+ years** of experience specializing in high-performance mobile, web, and cloud ecosystems. I bridge the gap between complex business requirements and scalable technical implementation.
 
-*Active on GitHub since 2025*
-
-| 🏅 | 🎖️ | ⚡ |
-|:---:|:---:|:---:|
-| **Quickdraw** | **Pull Shark** | **Pair Extraordinaire** |
-| Closed PR within 5 min | 2+ PRs merged | Co-authored merged PR |
-
-| ⭐ | 🧠 | 🚀 |
-|:---:|:---:|:---:|
-| **Starstruck** | **Galaxy Brain** | **YOLO** |
-| 16+ stars on repo | 2+ accepted answers | Merged PR without review |
-
-</div>
+- 📱 **25+ Applications** deployed across App Store & Play Store.
+- ⚡ **60% Increase** in development velocity through modular architecture.
+- 🚀 **40% Performance optimization** achieved via custom rendering and state management strategies.
+- 🛠️ **Lead & Mentor** of high-performing engineering teams.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-| ![Repos](https://img.shields.io/badge/Repos-40-2F81F7?style=flat-square&logo=github) | ![Followers](https://img.shields.io/badge/Followers-0-10B981?style=flat-square&logo=github) | ![Following](https://img.shields.io/badge/Following-1-6366F1?style=flat-square&logo=github) |
-|:---:|:---:|:---:|
-
-</div>
-
-### Top Languages
-
-<div align="left">
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</div>
+### 📊 Engineering Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=denzil-muchangi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denzil-muchangi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
-## Professional Summary
+### 🛠️ Strategic Tech Stack
 
-> Results-driven Senior Cross-Platform Developer with 5+ years of experience designing and deploying scalable digital solutions across mobile, web, and cloud platforms. Proven track record of delivering enterprise-grade applications that drive business value. Demonstrated expertise in leading technical teams, mentoring developers, and implementing best practices that result in 40-60% performance and development speed improvements.
+<details open>
+<summary><b>Mobile & Cross-Platform</b></summary>
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+</p>
+</details>
 
----
+<details>
+<summary><b>Backend & Cloud</b></summary>
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+</details>
 
-## Technical Expertise
-
-### Core Competencies
-
-| Category | Technologies |
-|:---------|:-------------|
-| **Mobile Development** | Flutter, React Native, Swift, Kotlin |
-| **Web Development** | React, TypeScript, Vue.js, Next.js |
-| **Backend & API** | .NET Core, Node.js, GraphQL, REST APIs |
-| **Cloud Platforms** | Microsoft Azure, AWS, Firebase |
-| **Databases** | PostgreSQL, MongoDB, SQL Server, Redis |
-| **DevOps & Tools** | Docker, GitHub Actions, CI/CD, Git |
-
-### Specialized Skills
-
-- ✓ Enterprise Architecture & System Design
-- ✓ Cross-Platform Mobile Development
-- ✓ Cloud-Native Application Development
-- ✓ API Design & Microservices
-- ✓ Performance Optimization & Caching Strategies
-- ✓ Agile/Scrum Methodologies
-- ✓ Technical Leadership & Team Mentorship
-
----
-
-## Professional Achievements
-
-<div align="center">
-
-| Metric | Achievement | Business Impact |
-|:-------|:-----------:|:-----------------|
-| 📱 **Applications Deployed** | 25+ | Multi-platform reach |
-| ⚡ **Development Speed** | 60% faster | Accelerated time-to-market |
-| 🚀 **Performance Boost** | 40% optimization | Enhanced user experience |
-| 💰 **Cloud Cost Reduction** | 30% savings | Improved ROI |
-| 📈 **Code Quality** | 95%+ test coverage | Reduced bugs & maintenance |
-| 👥 **Team Leadership** | 10+ developers mentored | Built high-performing teams |
-
-</div>
+<details>
+<summary><b>Tools & Databases</b></summary>
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+</p>
+</details>
 
 ---
 
-## What I Deliver
+### 🏗️ Preferred Flutter Architecture
+I advocate for a **Feature-First Clean Architecture** to ensure testability and team scalability.
 
-### For Enterprises
-- Scalable multi-tenant architecture solutions
-- Custom enterprise mobile & web applications
-- Cloud migration & modernization strategies
-- API gateway & microservices implementation
-
-### For Startups
-- Rapid MVP development & launch
-- Cross-platform applications (iOS, Android, Web)
-- Scalable backend infrastructure
-- Technical roadmap & architecture planning
-
-### For Teams
-- Technical mentorship & code reviews
-- Best practices implementation
-- Agile process optimization
-- Developer training workshops
+```mermaid
+graph TD
+    A[Presentation Layer] --> B[Domain Layer]
+    C[Data Layer] --> B
+    B --> D{Business Logic}
+    D --> E[BLoC / Riverpod]
+    E --> F[UI Widgets]
+    C --> G[API / Local DB]
+```
 
 ---
 
-## Professional Development
+### 🌟 Business Impact & Achievements
 
-### Continuous Learning
-- AWS Solutions Architecture certification in progress
-- Advanced ML/AI integration for mobile & web applications
-- DevOps & infrastructure automation
-
-### Community Contributions
-- Technical article publications
-- Open-source ecosystem contributions
-- Developer mentorship programs
-- Tech meetup speaking engagements
+| Impact Area | Performance | Strategic Outcome |
+| :--- | :--- | :--- |
+| **Enterprise Scalability** | 25+ Prod Apps | Successfully handled 100k+ concurrent users. |
+| **Operational Efficiency** | 60% Faster Dev | Implemented CI/CD pipelines and modular UI kits. |
+| **System Reliability** | 95%+ Coverage | Zero critical failures in major production releases. |
+| **Cost Optimization** | 30% Cloud Savings | Refactored Azure/AWS serverless functions. |
 
 ---
 
-## Work Preferences
-
-<div align="left">
-
-**Employment Types:**
-- Full-time Senior Developer positions
-- Technical leadership roles
-- Contract-based projects
-- Architecture consulting
-
-**Work Arrangements:**
-- Remote ✓
-- Hybrid ✓
-- On-site ✓
-- International opportunities ✓
-
-</div>
+### 🏆 Verified GitHub Recognition
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=denzil-muchangi&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophy" />
+</p>
 
 ---
 
-## Get In Touch
-
-<div align="left">
-
-📧 **Email:** [njagidenzil@gmail.com](mailto:njagidenzil@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/denzil-muchangi](https://linkedin.com/in/denzil-muchangi)  
-🌐 **Portfolio:** [denzil-muchangi.github.io](https://denzil-muchangi.github.io)  
-💻 **GitHub:** [github.com/denzil-muchangi](https://github.com/denzil-muchangi)
-
-</div>
+### ✍️ Currently Focused On
+- 🚀 **Flutter for Wasm**: Optimizing performance for the next generation of web apps.
+- 🤖 **On-Device AI**: Integrating Gemini and TensorFlow Lite for privacy-first mobile ML.
+- 🏗️ **Macro-Driven Dart**: Exploring the future of code generation in Dart 3.x.
 
 ---
 
-<div align="center">
+### 📫 Let's Connect
+- **Location:** Nairobi, Kenya (Available for Remote/Hybrid worldwide)
+- **Roles:** Senior Developer, Flutter Lead, Architecture Consultant.
+- **Direct:** [njagidenzil@gmail.com](mailto:njagidenzil@gmail.com)
 
-**Open to opportunities that challenge me to build impactful digital solutions.**
-
----
-
-*Last Updated: February 2026*
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
